@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>HueShift</string>
+    <key>CFBundleExecutable</key>
+    <string>HueShift</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.salzmansoftware.HueShift</string>
+    <key>CFBundleName</key>
+    <string>HueShift</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>HueShift needs Screen Recording access to read the display, apply the hue transform, and display the transformed image.</string>
+</dict>
+</plist>
